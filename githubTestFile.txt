@@ -1,0 +1,1 @@
+This is text file created directly in Github to check wether it will be present after push 
